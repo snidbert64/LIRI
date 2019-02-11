@@ -1,0 +1,25 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "a little node.js command line tool for a few different purposes",
+  "main": "LIRI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snidbert64/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snidbert64/LIRI/issues"
+  },
+  "homepage": "https://github.com/snidbert64/LIRI#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0"
+  }
+}
